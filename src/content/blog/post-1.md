@@ -1,16 +1,16 @@
 ---
 title: A Post about Important Items Of Life
-date: 2022-11-20
-author: Darnell McClure
-image: {
-  src: "/images/post-1.jpg",
-  alt: "A picture of a coder",
-}
-description: Have you ever wondered what the most important items of life are? Well, wonder no more!
+date: 2022-11-20T00:00:00Z
+author: Darnell McClureff
+image:
+  src: /images/post-1.jpg
+  alt: A picture of a coder
+description: >-
+  Have you ever wondered what the most important items of life are? Well, wonder
+  no more!
 draft: false
 category: Reference Docs
 ---
-
 Nisi duis ex aliqua eu officia eiusmod duis magna pariatur. Irure laborum qui aliqua nulla esse cillum laborum aliquip nulla elit. Id id Lorem duis irure cillum culpa. Nulla sint et aliqua velit do. Nulla sit sit proident consectetur enim ullamco aliqua in reprehenderit ullamco officia.
 
 Ad ipsum velit sint enim exercitation mollit consequat elit mollit qui commodo aute. Laboris culpa voluptate aliquip incididunt duis. Cupidatat aliquip et sunt aute fugiat cupidatat irure voluptate. Occaecat officia et sunt.
